@@ -7,6 +7,7 @@ The code for our Discord bot.
 ### Dependencies
 
 * Node
+* Powershell
 
 ### Installing
 
