@@ -1,0 +1,11 @@
+{
+    "name": "totally-human-user",
+    "version": "1.0.0",
+    "description": "Discord bot for Mincecraft Server notifications",
+    "main": "bot.js",
+    "author": "Phillip Sipe",
+    "dependencies": {
+        "discord.js": "^12.2.0",
+        "winston": "^3.2.1"
+    }
+}
