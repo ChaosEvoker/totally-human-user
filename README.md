@@ -15,6 +15,8 @@ Just clone the repository and run in the directory:
 npm install
 ```
 
+Then create an `auth.json` file in the directory, copy the contents of `example.auth.json` into it and ask Phillip for the real key.
+
 ### Executing program
 
 The program has two implemented commands:
